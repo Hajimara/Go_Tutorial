@@ -1,3 +1,5 @@
 .idea
 /bin
 /pkg
+.DS_Store
+src/.DS_Store
