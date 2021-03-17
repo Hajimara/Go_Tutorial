@@ -1,4 +1,4 @@
-module github.com/Hajimara/Go_Tutorial/detafile
+module detafile
 
 go 1.16
 

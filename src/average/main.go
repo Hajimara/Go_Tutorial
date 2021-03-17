@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"github.com/Hajimara/Go_Tutorial/datafile"
+	"datafile"
 )
 
 func main()  {
